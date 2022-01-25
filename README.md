@@ -6,16 +6,14 @@ Radio in [AsmSafone](https://t.me/AsmSafone) Channel.
 
 ## Note: This Repo Archived & Non Maintained. 
 
-## New Repos Here [👇](https://t.me/AsmSafone)
+## New Repos Here
 
-### >>> [RadioPlayerV2](https://github.com/AsmSafone/RadioPlayer/tree/V2.0)
-
-### >>> [RadioPlayerV3](https://github.com/AsmSafone/RadioPlayer/tree/V3.0)
+### >>> [RadioPlayerV3](https://github.com/Aadhi000/Radio-V3/tree/V3.0)
 
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AsmSafone/RadioPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/Radio-V3)
 
 - Generate pyrogram session string by [String Session Generator Bot](http://t.me/genStr_robot) 
 or running [genStr.py](genStr.py) by yourself on heroku run console.
